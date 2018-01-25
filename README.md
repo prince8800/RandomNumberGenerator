@@ -44,3 +44,7 @@ Brief Explanation :
 5. The program finally prints the max_list and min_list.
 6. Both the list are then concatenated to form the final list with random numbers.	
 
+Note :
+
+	This algo only generates 100 random numbers. We can generate n random numbers by multiplying 0.73 to n for the max_list length
+	and 0.27 to n for min_list length.
